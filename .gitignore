@@ -29,3 +29,6 @@ fp-info-cache
 
 # General project exports
 *.pdf
+
+# Apple folder file
+*.DS_Store
