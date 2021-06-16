@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3.3uH
+D 3.3uH ±20% 6A 30mΩ SMD,7x7x3mm Power Inductors RoHS
+F https://datasheet.lcsc.com/lcsc/1809301823_BC-Bao-Cheng-Elec-BCIHP0730-3R3M_C237909.pdf
+$ENDCMP
+#
+#End Doc Library

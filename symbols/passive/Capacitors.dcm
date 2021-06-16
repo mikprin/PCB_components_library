@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100nF
+D 100nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
+$CMP 10pF
+D 10pF ±5% 50V C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
+$CMP 10uF
+D 10uF ±10% 25V X5R 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
+$CMP 1nF
+D 1nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
+$CMP 22uF
+D 22uF ±20% 25V X5R 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
+$CMP 47uF
+D 47uF ±20% 10V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
+$CMP 8.2nF
+D 8.2nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
+#End Doc Library
