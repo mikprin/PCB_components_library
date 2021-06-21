@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H11L1
+D High SpeedOptocouplers DC 1 5000Vrms DIP-6 Optocouplers RoHS
+F https://datasheet.lcsc.com/lcsc/1810271841_Everlight-Elec-H11L1_C78588.pdf
+$ENDCMP
+#
+#End Doc Library
