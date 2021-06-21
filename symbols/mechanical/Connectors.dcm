@@ -5,6 +5,11 @@ D DC Power Receptacle Jack 2.5A 2.5mm 6.5mm SMD AC/DC Power Plugs & Receptacles 
 F https://datasheet.lcsc.com/lcsc/1811141816_XKB-Connectivity-DC-005-5A-2-5-SMT_C319133.pdf
 $ENDCMP
 #
+$CMP Molex-4Pin
+D 5.08mm Pitch Disk Drive Power Connection System Header, Vertical, Through Hole, 4 Circuits, Lead-Free, 3.60mm PC Tail Length, without PCB Locator Peg
+F https://www.molex.com/pdm_docs/sd/015244449_sd.pdf
+$ENDCMP
+#
 $CMP USB-A
 D USB - Type A Female USB 2.0 4 Through Hole USB Connectors RoHS
 F https://datasheet.lcsc.com/szlcsc/2102261732_Jing-Extension-of-the-Electronic-Co-901-211A1021D10100_C2346.pdf
