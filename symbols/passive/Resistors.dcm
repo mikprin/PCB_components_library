@@ -4,6 +4,14 @@ $CMP 10k
 D 10kΩ ±1% 0.1W 0603 Chip Resistor - Surface Mount RoHS
 $ENDCMP
 #
+$CMP 1k
+D 1kΩ ±1% 0.1W ±100ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
+$ENDCMP
+#
+$CMP 270
+D 270Ω ±1% 0.1W ±100ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
+$ENDCMP
+#
 $CMP 56k2
 D 56.2kΩ ±1% 0.1W 0603 Chip Resistor - Surface Mount RoHS
 $ENDCMP
