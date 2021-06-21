@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SN74LVC1G14
+D 74LVC Inverter 1 1 1.65V ~ 5.5V 10uA SOT-23-5 Gates and Inverters RoHS
+F https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf
+$ENDCMP
+#
 $CMP TPS54331DR
 D 28V 3A SOIC-8_150mil DC-DC Converters RoHS
 F https://www.ti.com/lit/ds/symlink/tps54331.pdf
