@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FerriteBead_4A
+D 30Ω @ 100MHz 4A 1 14mΩ 0805 Ferrite Beads RoHS
+F https://datasheet.lcsc.com/szlcsc/1811162021_Murata-Electronics-BLM21PG300SN1D_C16903.pdf
+$ENDCMP
+#
+#End Doc Library
