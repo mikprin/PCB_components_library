@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SS52
+D 40V 5A 550mV @ 5A SMA(DO-214AC) Schottky Barrier Diodes (SBD) RoHS
+F https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics-SS54_C22452.pdf
+$ENDCMP
+#
 #End Doc Library
