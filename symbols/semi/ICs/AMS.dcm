@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117-3.3
+D Fixed 15V 3.3V 1.3V @ 800mA SOT-223 Dropout Regulators(LDO) RoHS
+F http://www.advanced-monolithic.com/pdf/ds1117.pdf
+$ENDCMP
+#
+#End Doc Library
