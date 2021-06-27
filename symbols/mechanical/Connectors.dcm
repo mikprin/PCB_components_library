@@ -5,9 +5,19 @@ D DC Power Receptacle Jack 2.5A 2.5mm 6.5mm SMD AC/DC Power Plugs & Receptacles 
 F https://datasheet.lcsc.com/lcsc/1811141816_XKB-Connectivity-DC-005-5A-2-5-SMT_C319133.pdf
 $ENDCMP
 #
+$CMP Micro-USB
+D USB - Micro B Female USB 2 5 SMD USB Connectors RoHS
+F https://datasheet.lcsc.com/lcsc/2002271812_XKB-Connectivity-U254-051N-4BH806_C319170.pdf
+$ENDCMP
+#
 $CMP Molex-4Pin
 D 5.08mm Pitch Disk Drive Power Connection System Header, Vertical, Through Hole, 4 Circuits, Lead-Free, 3.60mm PC Tail Length, without PCB Locator Peg
 F https://www.molex.com/pdm_docs/sd/015244449_sd.pdf
+$ENDCMP
+#
+$CMP PJ-320B
+D 3.5mm SMD Headphone Holder 3 Female Horizontal SMD Audio & Video Connectors RoHS
+F https://datasheet.lcsc.com/lcsc/1811132022_BOOMELE-Boom-Precision-Elec-PJ-320B_C18594.pdf
 $ENDCMP
 #
 $CMP USB-A
