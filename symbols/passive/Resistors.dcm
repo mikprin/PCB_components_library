@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 0
+D 0Ω ±1% 0.1W 0603 Chip Resistor - Surface Mount RoHS
+$ENDCMP
+#
 $CMP 10k
 D 10kΩ ±1% 0.1W 0603 Chip Resistor - Surface Mount RoHS
 $ENDCMP
