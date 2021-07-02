@@ -1,5 +1,25 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LED_BLUE
+D Blue 465~475nm 0603 Light Emitting Diodes (LED) RoHS
+F https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf
+$ENDCMP
+#
+$CMP LED_GRN
+D Green 520~535nm 0603 Light Emitting Diodes (LED) RoHS
+F https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf
+$ENDCMP
+#
+$CMP LED_RED
+D Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS
+F https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf
+$ENDCMP
+#
+$CMP LED_YLW
+D Yellow 585.5~591.5nm 0603 Light Emitting Diodes (LED) RoHS
+F https://datasheet.lcsc.com/lcsc/1810101813_Everlight-Elec-19-213-Y2C-CQ2R2L-3T-CY_C72038.pdf
+$ENDCMP
+#
 $CMP SS52
 D 40V 5A 550mV @ 5A SMA(DO-214AC) Schottky Barrier Diodes (SBD) RoHS
 F https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics-SS54_C22452.pdf
