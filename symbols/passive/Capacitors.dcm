@@ -17,8 +17,8 @@ D 1nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
 $ENDCMP
 #
 $CMP 220uF
-D 220uF ±20% 25V 6.3x12 2000Hrs @ 105℃ Radial,6.3x12mm Aluminum Electrolytic Capacitors - Leaded RoHS
-F https://datasheet.lcsc.com/szlcsc/1809121822_AISHI-Aihua-Group-EWH1EM221E12OT_C106732.pdf
+D Aluminum Electrolytic Capacitors - SMD 220uF ±20% 16V SMD,6.3x7.7mm RoHS
+F https://datasheet.lcsc.com/lcsc/1809292110_Lelon-VES221M1CTR-0607_C127327.pdf
 $ENDCMP
 #
 $CMP 22uF
