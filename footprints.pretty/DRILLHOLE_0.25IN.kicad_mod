@@ -1,0 +1,9 @@
+(module DRILLHOLE_0.25IN (layer F.Cu) (tedit 60E6C5BA)
+  (fp_text reference REF** (at 0 -4.318) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value DRILLHOLE_0.25IN (at 0 4.572) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 6.4 6.4) (drill 6.4) (layers *.Cu *.Mask))
+)
