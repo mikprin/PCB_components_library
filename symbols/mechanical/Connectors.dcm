@@ -24,6 +24,11 @@ D 2.5mm SMD Headphone Holder 3 Female Horizontal SMD Audio & Video Connectors Ro
 F https://datasheet.lcsc.com/lcsc/2003181908_XKB-Connectivity-PJ-209X-3B-SMT_C500083.pdf
 $ENDCMP
 #
+$CMP PJ-320A
+D 3.5mm SMD Headphone Holder 4 Female Horizontal TH Audio & Video Connectors RoHS
+F https://datasheet.lcsc.com/lcsc/1806151943_Made-in-China-PJ-320A_C12569.pdf
+$ENDCMP
+#
 $CMP PJ-320B
 D 3.5mm SMD Headphone Holder 3 Female Horizontal SMD Audio & Video Connectors RoHS
 F https://datasheet.lcsc.com/lcsc/1811132022_BOOMELE-Boom-Precision-Elec-PJ-320B_C18594.pdf
