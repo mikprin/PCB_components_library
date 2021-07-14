@@ -16,6 +16,10 @@ $CMP 1nF
 D 1nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
 $ENDCMP
 #
+$CMP 1uF
+D 1uF ±10% 50V X5R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+$ENDCMP
+#
 $CMP 220uF
 D Aluminum Electrolytic Capacitors - SMD 220uF ±20% 16V SMD,6.3x7.7mm RoHS
 F https://datasheet.lcsc.com/lcsc/1809292110_Lelon-VES221M1CTR-0607_C127327.pdf
