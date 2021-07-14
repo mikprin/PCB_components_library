@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SY8204FCC
+D 30V 4A SOIC-8_EP_150mil DC-DC Converters RoHS
+F https://datasheet.lcsc.com/lcsc/1810121530_Silergy-Corp-SY8204FCC_C125895.pdf
+$ENDCMP
+#
+#End Doc Library
