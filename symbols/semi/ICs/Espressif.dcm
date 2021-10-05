@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROOM-32
+F https://cdn-shop.adafruit.com/product-files/3320/3320_module_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
