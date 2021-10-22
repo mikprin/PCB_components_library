@@ -4,6 +4,11 @@ $CMP 100nF
 D 100nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
 $ENDCMP
 #
+$CMP 100uF
+D 47uF ±20% 10V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+F https://datasheet.lcsc.com/lcsc/1810301816_Samsung-Electro-Mechanics-CL31A107MQHNNNE_C15008.pdf
+$ENDCMP
+#
 $CMP 10pF
 D 10pF ±5% 50V C0G 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
 $ENDCMP
