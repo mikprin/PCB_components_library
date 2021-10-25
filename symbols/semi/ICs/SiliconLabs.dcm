@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INTERFACE-CP2102-GMR(QFN28)
+F https://datasheet.lcsc.com/lcsc/1811081920_SILICON-LABS-CP2102-GMR_C6568.pdf
+$ENDCMP
+#
+#End Doc Library
