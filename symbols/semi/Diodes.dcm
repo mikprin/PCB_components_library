@@ -20,6 +20,14 @@ D Yellow 585.5~591.5nm 0603 Light Emitting Diodes (LED) RoHS
 F https://datasheet.lcsc.com/lcsc/1810101813_Everlight-Elec-19-213-Y2C-CQ2R2L-3T-CY_C72038.pdf
 $ENDCMP
 #
+$CMP PESD5V0L4UG,115
+F https://datasheet.lcsc.com/lcsc/1809281716_Yenji-Elec-PESD5V0L4UG_C252432.pdf
+$ENDCMP
+#
+$CMP RCLAMP0522P.TCT
+F https://datasheet.lcsc.com/lcsc/1809192027_SEMTECH-RCLAMP0522P.TCT_C112169.pdf
+$ENDCMP
+#
 $CMP SS52
 D 40V 5A 550mV @ 5A SMA(DO-214AC) Schottky Barrier Diodes (SBD) RoHS
 F https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics-SS54_C22452.pdf
