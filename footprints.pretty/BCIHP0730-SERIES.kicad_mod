@@ -6,12 +6,12 @@
   (fp_text value BCIHP0730-SERIES (at 3.81 5.08) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start -3.3 -3.3) (end -3.3 -2.3) (layer F.SilkS) (width 0.12))
-  (fp_line (start 3.3 -3.3) (end 3.3 -2.3) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.3 3.3) (end -3.3 2.3) (layer F.SilkS) (width 0.12))
-  (fp_line (start 3.3 3.3) (end 3.3 2.3) (layer F.SilkS) (width 0.12))
-  (fp_line (start -3.3 3.3) (end 3.3 3.3) (layer F.SilkS) (width 0.127))
   (fp_line (start -3.3 -3.3) (end 3.3 -3.3) (layer F.SilkS) (width 0.127))
+  (fp_line (start -3.3 3.3) (end 3.3 3.3) (layer F.SilkS) (width 0.127))
+  (fp_line (start 3.3 3.3) (end 3.3 2.3) (layer F.SilkS) (width 0.12))
+  (fp_line (start -3.3 3.3) (end -3.3 2.3) (layer F.SilkS) (width 0.12))
+  (fp_line (start 3.3 -3.3) (end 3.3 -2.3) (layer F.SilkS) (width 0.12))
+  (fp_line (start -3.3 -3.3) (end -3.3 -2.3) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -2.4875 0) (size 2.575 3.35) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.4875 0) (size 2.575 3.35) (layers F.Cu F.Paste F.Mask))
   (model ${KIPRJMOD}/../libraries/PCB_components_library/3d_models/BCIHP0730-Series.stp

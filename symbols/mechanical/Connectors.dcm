@@ -19,6 +19,10 @@ $CMP PH_1x2
 D Pin Header 1x2 100mil
 $ENDCMP
 #
+$CMP PH_1x4
+D Pin Header 1x2 100mil
+$ENDCMP
+#
 $CMP PJ-208X-3B-SMT
 D 2.5mm SMD Headphone Holder 3 Female Horizontal SMD Audio & Video Connectors RoHS
 F https://datasheet.lcsc.com/lcsc/2003181908_XKB-Connectivity-PJ-209X-3B-SMT_C500083.pdf
