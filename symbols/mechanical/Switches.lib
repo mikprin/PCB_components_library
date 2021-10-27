@@ -12,6 +12,8 @@ F4 "XKB Industrial Precision" 100 150 50 H I L BNN "MANUFACTURER"
 F5 "A0" 0 0 50 H I L BNN "PARTREV"
 F6 "Manufacturer Recommendations" 50 -300 50 H I L BNN "STANDARD"
 F7 "1.5mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F8 "JLCPCB" 0 0 50 H I C CNN "Vendor"
+F9 " C318884" 0 0 50 H I C CNN "Vendor#"
 DRAW
 C 100 0 13 0 0 6 N
 P 2 0 0 6 -100 0 -200 0 N
