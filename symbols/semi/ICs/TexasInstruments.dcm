@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADS7886SBDCKT
+F https://datasheet.lcsc.com/lcsc/1806081754_Texas-Instruments-ADS7886SBDCKT_C205945.pdf
+$ENDCMP
+#
 $CMP SN74LVC1G14
 D 74LVC Inverter 1 1 1.65V ~ 5.5V 10uA SOT-23-5 Gates and Inverters RoHS
 F https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf

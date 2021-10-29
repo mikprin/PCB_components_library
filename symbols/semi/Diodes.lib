@@ -277,4 +277,23 @@ X K 2 100 0 90 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# TH_photodiode
+#
+DEF TH_photodiode D 0 0 Y Y 1 F N
+F0 "D" 44 106 50 H V C CNN
+F1 "TH_photodiode" -12 -92 50 H V C CNN
+F2 "footprints:TH_Diode" -48 -166 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -42 76 -30 82 N
+P 3 0 1 0 -24 112 -42 76 -44 90 N
+P 2 1 1 0 -6 74 6 80 N
+P 2 1 1 0 10 50 10 -50 N
+P 3 1 1 0 12 110 -6 74 -8 88 N
+P 4 1 1 0 -60 50 -60 -50 10 0 -60 50 N
+X A 1 -150 0 90 R 50 50 1 1 P
+X K 2 100 0 90 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library

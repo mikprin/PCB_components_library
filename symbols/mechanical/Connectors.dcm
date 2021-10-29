@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 10118194-0001LF
+F https://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
+$ENDCMP
+#
 $CMP DC-005-2.5
 D DC Power Receptacle Jack 2.5A 2.5mm 6.5mm SMD AC/DC Power Plugs & Receptacles RoHS
 F https://datasheet.lcsc.com/lcsc/1811141816_XKB-Connectivity-DC-005-5A-2-5-SMT_C319133.pdf
