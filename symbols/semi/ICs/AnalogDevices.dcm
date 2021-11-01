@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD8615AUJZ-R2
+F https://datasheet.lcsc.com/lcsc/1809051227_Analog-Devices-AD8615AUJZ-R2_C131306.pdf
+$ENDCMP
+#
 #End Doc Library

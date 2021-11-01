@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AO3400A
+F https://datasheet.lcsc.com/lcsc/1811081213_Alpha-&-Omega-Semicon-AO3400A_C20917.pdf
+$ENDCMP
+#
+$CMP MJD122G
+F https://datasheet.lcsc.com/lcsc/1809200040_ON-Semiconductor-MJD122T4G_C12789.pdf
+$ENDCMP
+#
 $CMP S8050
 D Transistors (NPN/PNP) NPN 500mA 25V SOT-23(SOT-23-3) RoHS
 F https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-S8050_C2146.pdf

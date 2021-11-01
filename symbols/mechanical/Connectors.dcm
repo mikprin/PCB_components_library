@@ -23,6 +23,14 @@ $CMP PH_1x2
 D Pin Header 1x2 100mil
 $ENDCMP
 #
+$CMP PH_1x3
+D Pin Header 1x2 100mil
+$ENDCMP
+#
+$CMP PH_1x3_swich
+D Pin Header 1x2 100mil
+$ENDCMP
+#
 $CMP PH_1x4
 D Pin Header 1x2 100mil
 $ENDCMP
