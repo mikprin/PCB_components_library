@@ -1,7 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 0
-D 0Ω ±1% 0.1W 0603 Chip Resistor - Surface Mount RoHS
+$CMP 100k
+D ±1% 100kΩ ±100ppm/℃ 0.1W 0603 Chip Resistor - Surface Mount ROHS
+F https://datasheet.lcsc.com/lcsc/1810201809_UNI-ROYAL-Uniroyal-Elec-0603WAF1003T5E_C25803.pdf
 $ENDCMP
 #
 $CMP 10k
@@ -24,7 +25,7 @@ $CMP 270
 D 270Ω ±1% 0.1W ±100ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
 $ENDCMP
 #
-$CMP 330k
+$CMP 330k_copy
 D 330kΩ ±1% ±100ppm/℃ 0.1W 0603 Chip Resistor - Surface Mount ROHS
 F https://datasheet.lcsc.com/lcsc/1811021233_UNI-ROYAL-Uniroyal-Elec-0603WAF3303T5E_C23137.pdf
 $ENDCMP
@@ -32,6 +33,11 @@ $ENDCMP
 $CMP 470
 D 470Ω ±1% 0.1W ±100ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
 F https://datasheet.lcsc.com/lcsc/1811081712_UNI-ROYAL-Uniroyal-Elec-0603WAF4700T5E_C23179.pdf
+$ENDCMP
+#
+$CMP 470k
+D 330kΩ ±1% ±100ppm/℃ 0.1W 0603 Chip Resistor - Surface Mount ROHS
+F https://datasheet.lcsc.com/lcsc/1811021233_UNI-ROYAL-Uniroyal-Elec-0603WAF3303T5E_C23137.pdf
 $ENDCMP
 #
 $CMP 56k2
@@ -45,6 +51,15 @@ $ENDCMP
 #
 $CMP 91k
 D 91kΩ ±1% 0.1W ±100ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
+$ENDCMP
+#
+$CMP NC
+D NC Chip Resistor
+$ENDCMP
+#
+$CMP PV36W254C01B00
+D 10 kOhms 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 25 Turn Top Adjustment
+F https://www.bourns.com/docs/Product-Datasheets/pv36.pdf
 $ENDCMP
 #
 #End Doc Library

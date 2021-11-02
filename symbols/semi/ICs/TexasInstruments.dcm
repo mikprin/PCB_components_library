@@ -1,26 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP ADS7886SBDCKT
+D ADS7886 12-Bit, 1-MSPS, Micro-Power, Miniature
+SAR Analog-to-Digital Converters
 F https://datasheet.lcsc.com/lcsc/1806081754_Texas-Instruments-ADS7886SBDCKT_C205945.pdf
 $ENDCMP
 #
-$CMP SN74LVC1G14
-D 74LVC Inverter 1 1 1.65V ~ 5.5V 10uA SOT-23-5 Gates and Inverters RoHS
-F https://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf
-$ENDCMP
-#
-$CMP TLV3201AIDBVR
-F https://www.ti.com/lit/ds/symlink/tlv3201.pdf?ts=1635695670916&ref_url=https%253A%252F%252Fwww.google.com%252F
-$ENDCMP
-#
-$CMP TPS54331DR
-D 28V 3A SOIC-8_150mil DC-DC Converters RoHS
-F https://www.ti.com/lit/ds/symlink/tps54331.pdf
-$ENDCMP
-#
-$CMP TPS564208DDCR
-D Step-Down Positive Adjustable 1 4A 560kHz SOT-23-6 DC-DC Converters RoHS
-F https://www.ti.com/lit/ds/symlink/tps564208.pdf
+$CMP OPA2830IDR
+F https://datasheet.lcsc.com/lcsc/1809191913_Texas-Instruments-OPA2830IDR_C44371.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -42,4 +42,8 @@ $CMP 8.2nF
 D 8.2nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
 $ENDCMP
 #
+$CMP Res
+D Extra cap
+$ENDCMP
+#
 #End Doc Library
