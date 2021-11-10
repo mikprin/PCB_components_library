@@ -10,4 +10,9 @@ D 3.6uH ±30% 4.5A 22mΩ SMD,8x8x4.2mm Power Inductors RoHS
 F https://datasheet.lcsc.com/lcsc/1810102332_Sunlord-SWPA8040S3R6NT_C143836.pdf
 $ENDCMP
 #
+$CMP 4.7uH
+D 4.7±30% 4.5A 25mΩ SMD,8x8x4.2mm Power Inductors RoHS
+F https://datasheet.lcsc.com/lcsc/1810102332_Sunlord-SWPA8040S3R6NT_C143836.pdf
+$ENDCMP
+#
 #End Doc Library

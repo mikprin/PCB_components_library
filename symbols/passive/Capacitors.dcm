@@ -2,6 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP 100nF
 D 100nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+F https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.pdf
 $ENDCMP
 #
 $CMP 100u
@@ -39,12 +40,19 @@ $CMP 22uF
 D 22uF ±20% 25V X5R 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
 $ENDCMP
 #
+$CMP 47p
+D 47pF  ±5% 50V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+F https://datasheet.lcsc.com/lcsc/1810261610_Samsung-Electro-Mechanics-CL10C470JB8NNNC_C1671.pdf
+$ENDCMP
+#
 $CMP 47uF
 D 47uF ±20% 10V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+F https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.pdf
 $ENDCMP
 #
 $CMP 8.2nF
 D 8.2nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+F https://datasheet.lcsc.com/lcsc/1810262007_Samsung-Electro-Mechanics-CL10B822KB8NNNC_C27920.pdf
 $ENDCMP
 #
 $CMP Res
