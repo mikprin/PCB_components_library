@@ -33,4 +33,9 @@ D 40V 5A 550mV @ 5A SMA(DO-214AC) Schottky Barrier Diodes (SBD) RoHS
 F https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics-SS54_C22452.pdf
 $ENDCMP
 #
+$CMP SS52_NC
+D 40V 5A 550mV @ 5A SMA(DO-214AC) Schottky Barrier Diodes (SBD) RoHS
+F https://datasheet.lcsc.com/lcsc/1810192041_MDD-Microdiode-Electronics-SS54_C22452.pdf
+$ENDCMP
+#
 #End Doc Library
