@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TLV3201AIDBVR
+F https://www.ti.com/lit/ds/symlink/tlv3201.pdf
+$ENDCMP
+#
 $CMP TPS54332DDA
 D 3.5A 28V SO-8 DC-DC
 F https://www.ti.com/lit/ds/symlink/tps54332.pdf?ts=1636461134997&ref_url=https%253A%252F%252Fwww.google.com%252F
