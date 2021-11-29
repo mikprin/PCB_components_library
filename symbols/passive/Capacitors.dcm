@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1.1p
+D 1.1pF ±0.1pF C0G  50V 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+F https://datasheet.lcsc.com/lcsc/1811081530_Murata-Electronics-GJM1555C1H1R1BB01D_C161308.pdf
+$ENDCMP
+#
 $CMP 100nF
 D 100nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
 F https://datasheet.lcsc.com/lcsc/1810221121_Samsung-Electro-Mechanics-CL31A476MPHNNNE_C96123.pdf

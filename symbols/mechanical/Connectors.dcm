@@ -14,6 +14,11 @@ D BNC connector
 F https://datasheet.lcsc.com/lcsc/2007241234_dosinconn-DOSIN-801-0038_C709673.pdf
 $ENDCMP
 #
+$CMP DOSIN-801-0038_NC
+D BNC connector
+F https://datasheet.lcsc.com/lcsc/2007241234_dosinconn-DOSIN-801-0038_C709673.pdf
+$ENDCMP
+#
 $CMP Micro-USB
 D USB - Micro B Female USB 2 5 SMD USB Connectors RoHS
 F https://datasheet.lcsc.com/lcsc/2002271812_XKB-Connectivity-U254-051N-4BH806_C319170.pdf
