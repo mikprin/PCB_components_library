@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Logo
+#
+DEF Logo L 0 40 Y Y 1 F N
+F0 "L" 0 -100 50 H I C CNN
+F1 "Logo" 0 0 157 H V C CNB
+F2 "footprints:logo" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library
