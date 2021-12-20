@@ -32,6 +32,22 @@ X SHIELD S6 -500 -300 200 R 40 40 0 0 P
 ENDDRAW
 ENDDEF
 #
+# 3mm_2pin_solder
+#
+DEF 3mm_2pin_solder J 0 40 Y Y 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "3mm_2pin_solder" -50 200 50 H I C CNN
+F2 "footprints:3mm_2pin_solder" 0 100 50 H I C CNN
+F3 "" 0 100 50 H I C CNN
+DRAW
+S 0 50 150 -150 0 1 0 N
+P 2 0 1 0 100 -100 200 -100 N
+P 2 0 1 0 100 0 200 0 N
+X 1 1 -100 -100 100 R 50 50 1 1 I
+X 2 2 -100 0 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # DC-005-2.5
 #
 DEF DC-005-2.5 J 0 40 Y N 1 F N
