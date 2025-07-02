@@ -152,6 +152,19 @@
 		(layer "Cmts.User")
 		(uuid "c15ac164-e9c3-4dcc-80ed-3eb08a4fd6ab")
 	)
+	(fp_poly
+		(pts
+			(xy 2.5 3.5) (xy 2.5 2.5) (xy 3.5 2.5) (xy 3.5 -2.5) (xy 2.5 -2.5) (xy 2.5 -3.5) (xy -2.5 -3.5) (xy -2.5 -2.5)
+			(xy -3.5 -2.5) (xy -3.5 2.5) (xy -2.5 2.5) (xy -2.5 3.5)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "bedf4906-198e-401d-b0ad-bf78ea6bd69a")
+	)
 	(fp_circle
 		(center -3 3)
 		(end -2.97 3)
